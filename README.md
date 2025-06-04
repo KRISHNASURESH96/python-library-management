@@ -55,7 +55,7 @@ No additional libraries needed (only uses Python's built-in features and standar
 ## 👤 Author
 
 Krishna Suresh  
-[Your GitHub profile link here]
+https://github.com/KRISHNASURESH96
 
 ## 📄 License
 
